@@ -1,4 +1,4 @@
-<p align="left">Hello World!!</p>
+<p align="left">Sobre mim<br><br>Olá pessoal! O meu nome é Erivelton Correia, tenho 32 anos. Atualmente terminei o curso de Engenheiro Front-End na EBAC.<br><br>Estou sempre em busca de novos desafios... 🔭<br>Cada dia é um processo de aprendizado constante, dentro de todo o nosso tempo de trabalho é possível inovar, criar e desenvolver soluções que sejam realmente úteis para outras pessoas, e às vezes até inspirá-las a alcançar seus sonhos e objetivos com a tecnologia. Fico muito feliz e grata por fazer parte desse mundo incrível cheio de desafios e aprendizados!<br><br> O que resume ainda mais o meu perfil é a felicidade e muita gratidão por poder compartilhar e contribuir com um pouquinho das minhas experiências!</p>
 
 ###
 
@@ -35,6 +35,20 @@
   <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=svg" height="40" alt="svg logo"  />
+</div>
+
+###
+
+<div align="center">
+  <a href="www.linkedin.com/in/erivelton-correia" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="cerivelton85@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  <a href="(44) 998457141" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+  </a>
 </div>
 
 ###
